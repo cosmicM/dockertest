@@ -1,3 +1,3 @@
-FROM python:3.9-slim
-echo "WORKDIR /usr/src/app"
-echo 'CMD ["echo", "I am the boss"]'
+FROM python:3.9"
+WORKDIR /usr/src/app"
+'CMD ["echo", "I am the boss"]'
